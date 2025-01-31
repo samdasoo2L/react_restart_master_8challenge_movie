@@ -1,9 +1,7 @@
-# movie info web
+# Movie Info Web
 
-next.js
+react ts
 movie API
-vercel
-
-## domain
-
-nextjs-beginner-movies.vercel.app
+react router dom
+styled-components
+framer motion
